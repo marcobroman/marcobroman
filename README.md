@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcobroman
 - 👀 I’m interested in developing new skills related to frontend/backend techonologies
-- 🌱 I’m currently learning react-native, express-js
+- 🌱 I’m currently learning NextJS and MongoDB
 - 💞️ I’m looking to collaborate on any web apps
 
 <!---

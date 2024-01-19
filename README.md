@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
-
+</div>
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=marcobroman&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello! Hola!
